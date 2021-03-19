@@ -5,6 +5,7 @@
 - 📫 How to reach me 
       Email: ananyagautam0607@gmail.com
       LinkedIn: https://www.linkedin.com/in/ananya-gautam-7342b4201
+      Twitter: https://twitter.com/AnanyaG59684776?s=03
 
 <!---
 Boombag0607/Boombag0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
