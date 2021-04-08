@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boombag0607
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Dev Ops
+- 🌱 I’m currently learning about Dev Ops
 - 💞️ I’m looking to collaborate on making a personal website. 
 - 📫 How to reach me 
       Email: ananyagautam0607@gmail.com
