@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Boombag0607
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ananya Gautam!
+
+
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning about Dev Ops
 - 💞️ I’m looking to collaborate on making a personal website. 
