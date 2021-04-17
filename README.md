@@ -29,10 +29,10 @@
 
 
 
-- 📫 How to reach me 
-      Email: ananyagautam0607@gmail.com
-      LinkedIn: https://www.linkedin.com/in/ananya-gautam-7342b4201
-      Twitter: https://twitter.com/AnanyaG59684776?s=03
+- 📫 How to reach me <br>
+      Email: ananyagautam0607@gmail.com <div>Icons made by <br>
+      LinkedIn: https://www.linkedin.com/in/ananya-gautam-7342b4201 <br>
+      Twitter: https://twitter.com/AnanyaG59684776?s=03 <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a><br>
       
 - If you like my work, you can buy me a coffee at https://www.buymeacoffee.com/AnanyaGautam. &#128512;
 
