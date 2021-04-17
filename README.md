@@ -34,7 +34,7 @@
       LinkedIn: https://www.linkedin.com/in/ananya-gautam-7342b4201
       Twitter: https://twitter.com/AnanyaG59684776?s=03
       
-- If you like my work, you can buy me a coffee at https://www.buymeacoffee.com/AnanyaGautam. :)
+- If you like my work, you can buy me a coffee at https://www.buymeacoffee.com/AnanyaGautam. &#128512;
 
 <!---
 Boombag0607/Boombag0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
