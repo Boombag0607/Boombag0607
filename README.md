@@ -30,11 +30,11 @@
 
 
 - 📫 How to reach me <br>
-      Email: ananyagautam0607@gmail.com <div>Icons made by <br>
+      Email: ananyagautam0607@gmail.com <br>
       LinkedIn: https://www.linkedin.com/in/ananya-gautam-7342b4201 <br>
-      Twitter: https://twitter.com/AnanyaG59684776?s=03 <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a><br>
+      Twitter: https://twitter.com/AnanyaG59684776?s=03 
       
-- If you like my work, you can buy me a coffee at https://www.buymeacoffee.com/AnanyaGautam. &#128512;
+- 9749 If you like my work, you can buy me a coffee at https://www.buymeacoffee.com/AnanyaGautam. &#128512;
 
 <!---
 Boombag0607/Boombag0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
