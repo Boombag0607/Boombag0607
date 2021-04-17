@@ -11,7 +11,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/144/000000/javascript.png" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="HTML Logo" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ logo" width="50" height="50"/>
