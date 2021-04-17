@@ -6,6 +6,22 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning about Dev Ops
 - 💞️ I’m looking to collaborate on making a personal website. 
+
+--------
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="HTML Logo" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ logo" width="50" height="50"/>
+
+--------
+
+
+
+
+
 - 📫 How to reach me 
       Email: ananyagautam0607@gmail.com
       LinkedIn: https://www.linkedin.com/in/ananya-gautam-7342b4201
