@@ -11,10 +11,10 @@
 
 🧰 Toolbox
 
-<img src="https://worldvectorlogo.com/logo/logo-javascript" width="50px" height="50px"/> 
+<img src="https://cdn.worldvectorlogo.com/logo/logo-javascript" width="50px" height="50px"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50px" height="50px"/>
-<img src="https://worldvectorlogo.com/logo/html5" alt="HTML Logo" width="50px" height="50px"/>
-<img src="https://worldvectorlogo.com/logo/c" alt="C++ logo" width="50px" height="50px"/>
+<img src="https://cdn.worldvectorlogo.com/logo/html5" alt="HTML Logo" width="50px" height="50px"/>
+<img src="https://cdn.worldvectorlogo.com/logo/c" alt="C++ logo" width="50px" height="50px"/>
 
 --------
 
