@@ -5,7 +5,6 @@
 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning about Dev Ops
-- 💞️ I’m looking to collaborate on making a personal website. 
 
 --------
 
