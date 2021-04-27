@@ -29,9 +29,9 @@
 
 
 - 📫 How to reach me <br>
-      Email: ananyagautam0607@gmail.com <br>
-      LinkedIn: https://www.linkedin.com/in/ananya-gautam-7342b4201 <br>
-      Twitter: https://twitter.com/AnanyaG59684776?s=03 
+      <a href= "ananyagautam0607@gmail.com">Email</a> <br>
+      <a href ="https://www.linkedin.com/in/ananya-gautam-7342b4201">LinkedIn</a> <br>
+      <a href= "https://twitter.com/AnanyaG59684776?s=03">Twitter</a> 
       
 - &#9749; If you like my work, you can <a href="https://www.buymeacoffee.com/AnanyaGautam">buy me a coffee</a>. &#128512;
 
