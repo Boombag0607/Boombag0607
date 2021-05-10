@@ -1,6 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ananya Gautam!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/boombagtwtstyle=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/boombagtwt?style=social)
+(https://img.shields.io/github/followers/Boombag0607?style=social)
 
 
 - 👀 I’m interested in Web Development.
