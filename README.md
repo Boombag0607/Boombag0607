@@ -15,7 +15,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="50px" height="50px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="50px" height="50px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50px" height="50px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="Python" width="50px" height="50px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python" width="50px" height="50px"/>
 
 --------
 
