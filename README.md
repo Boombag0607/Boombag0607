@@ -11,6 +11,7 @@
 
 ## 🧰 Toolbox
 <br/>
+<div>
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="50px"/> 
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="50px"/>
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="50px"/>
@@ -18,8 +19,8 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python" width="50px"/>
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50px"/> 
-<br/>
-<br/>
+</div>
+<br/> <br/>
 
 --------
 
