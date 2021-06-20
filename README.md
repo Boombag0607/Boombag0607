@@ -17,7 +17,9 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50px" width="25px"/>
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python" width="25px"/>
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="25px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25px"/> 
+<br>
+<br>
 
 --------
 
