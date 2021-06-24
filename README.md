@@ -19,6 +19,7 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python" width="50px"/>
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50px"/> 
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="50px"/> 
 </div>
 <br/> <br/>
 
