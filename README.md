@@ -14,6 +14,13 @@
 <div>
       <img src = 'https://user-images.githubusercontent.com/77502834/128146552-fe1e28fb-413e-474a-b53a-b1de47eb8b8f.png' alt = HTML align= left width = 40px>
       <img src = 'https://user-images.githubusercontent.com/77502834/128146703-19f9d686-4697-46a8-a53d-03f8d112fda3.png' alt = Python align = left width = 40px>
+      <img src = 'https://user-images.githubusercontent.com/77502834/128148092-77ff85d2-4f7f-4489-8676-0db748a91107.png' alt = Docker align = left width = 40px>
+      <img src = 'https://user-images.githubusercontent.com/77502834/128148521-bc78e3d1-df18-4bb9-9e4f-b46bcb3ecaae.png' alt = JavaScript align = left width = 40px>
+     <img src = 'https://user-images.githubusercontent.com/77502834/128148667-9b8602fa-5f28-4ac6-9c49-8a98ee6e2ff2.png' alt = Java align = left width = 40px> 
+     <img src = 'https://user-images.githubusercontent.com/77502834/128148929-0eebb675-46c7-46af-9df2-629d08a314f9.png' alt = React align = left width = 40px>
+     
+
+      
       
 
 
