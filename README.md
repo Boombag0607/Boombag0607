@@ -12,14 +12,11 @@
 ## 🧰 Toolbox
 <br/>
 <div>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="50px"/> 
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="50px"/>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="50px"/>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50px" width="50px"/>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python" width="50px"/>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50px"/> 
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="50px"/> 
+      ![alt text](![image](https://user-images.githubusercontent.com/77502834/128146552-fe1e28fb-413e-474a-b53a-b1de47eb8b8f.png))
+      ![alt text](![image](https://user-images.githubusercontent.com/77502834/128146703-19f9d686-4697-46a8-a53d-03f8d112fda3.png))
+      
+
+
 </div>
 <br/> <br/>
 
