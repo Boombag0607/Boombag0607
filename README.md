@@ -6,6 +6,13 @@
 
 - 👀 I’m interested in Paintings, Sculptures, Philosopy, Programming and Mathematics
 - 🌱 I’m currently into Machine Learning
+- 📫 Contact me on --- 
+      <a href= "ananyagautam0607@gmail.com">Email</a>, 
+      <a href ="https://www.linkedin.com/in/ananya-gautam-7342b4201">LinkedIn</a>,
+      <a href= "https://twitter.com/boombagtwt">Twitter</a> 
+      
+- &#9749; If you like my work, you can <a href="https://www.buymeacoffee.com/AnanyaGautam">buy me a coffee</a>. 
+
 
 --------
 
@@ -40,12 +47,6 @@
 
 
 
-- 📫 How to reach me <br>
-      <a href= "ananyagautam0607@gmail.com">Email</a> <br>
-      <a href ="https://www.linkedin.com/in/ananya-gautam-7342b4201">LinkedIn</a> <br>
-      <a href= "https://twitter.com/boombagtwt">Twitter</a> 
-      
-- &#9749; If you like my work, you can <a href="https://www.buymeacoffee.com/AnanyaGautam">buy me a coffee</a>. &#128512;
 
 <!---
 Boombag0607/Boombag0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
