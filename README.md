@@ -7,7 +7,7 @@
 - 👀 I’m interested in Philosopy, Programming and Mathematics
 - 🌱 I’m currently into Machine Learning
 - 📫 Contact me on --- 
-      <a href= "ananyagautam0607@gmail.com">Email</a>, 
+      <a href= "mailto:ananyagautam0607@gmail.com">Email</a>, 
       <a href ="https://www.linkedin.com/in/ananya-gautam-7342b4201">LinkedIn</a>,
       <a href= "https://twitter.com/boombagtwt">Twitter</a> 
       
