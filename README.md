@@ -18,7 +18,7 @@
       <img src = 'https://user-images.githubusercontent.com/77502834/128148521-bc78e3d1-df18-4bb9-9e4f-b46bcb3ecaae.png' alt = JavaScript align = left width = 40px>
      <img src = 'https://user-images.githubusercontent.com/77502834/128148667-9b8602fa-5f28-4ac6-9c49-8a98ee6e2ff2.png' alt = Java align = left width = 40px> 
      <img src = 'https://user-images.githubusercontent.com/77502834/128148929-0eebb675-46c7-46af-9df2-629d08a314f9.png' alt = React align = left width = 40px>
-     
+     <img src = 'https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png' alt = Kubernetes align = left width = 40px>
 
       
       
