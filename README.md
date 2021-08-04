@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in Paintings, Sculptures, Philosopy, Programming and Mathematics
-- 🌱 I’m currently learning about Dev Ops
+- 🌱 I’m currently into Machine Learning
 
 --------
 
