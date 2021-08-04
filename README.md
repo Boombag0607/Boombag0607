@@ -12,8 +12,8 @@
 ## 🧰 Toolbox
 <br/>
 <div>
-      ![alt text](![image](https://user-images.githubusercontent.com/77502834/128146552-fe1e28fb-413e-474a-b53a-b1de47eb8b8f.png))
-      ![alt text](![image](https://user-images.githubusercontent.com/77502834/128146703-19f9d686-4697-46a8-a53d-03f8d112fda3.png))
+      ![image](https://user-images.githubusercontent.com/77502834/128146552-fe1e28fb-413e-474a-b53a-b1de47eb8b8f.png)
+      ![image](https://user-images.githubusercontent.com/77502834/128146703-19f9d686-4697-46a8-a53d-03f8d112fda3.png)
       
 
 
