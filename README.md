@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Boombag0607?style=social)
 
 
-- 👀 I’m interested in Paintings, Sculptures, Philosopy, Programming and Mathematics
+- 👀 I’m interested in Philosopy, Programming and Mathematics
 - 🌱 I’m currently into Machine Learning
 - 📫 Contact me on --- 
       <a href= "ananyagautam0607@gmail.com">Email</a>, 
