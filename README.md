@@ -11,7 +11,7 @@
       <a href ="https://www.linkedin.com/in/ananya-gautam-7342b4201">LinkedIn</a>,
       <a href= "https://twitter.com/boombagtwt">Twitter</a> 
       
-- &#9749; If you like my work, you can <a href="https://www.buymeacoffee.com/AnanyaGautam">buy me a coffee</a>. 
+- &#9749; If you like my work, you can <a href="https://paypal.me/boombag0607?locale.x=en_GB">buy me a coffee</a>. 
 
 
 --------
