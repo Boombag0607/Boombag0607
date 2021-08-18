@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boombag0607&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Boombag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boombag0607&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Boombag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boombag0607&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/Boombag0607/github-readme-stats)
 
 --------
 
