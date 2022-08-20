@@ -3,7 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   54 mins         █████████▓░░░░░░░░░░░░░░░   38.83 %
+HTML         29 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Markdown     17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Bash         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+XML          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
