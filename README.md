@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    1 min           ██████████░░░░░░░░░░░░░░░   40.29 %
-Objective-C   1 min           ████████░░░░░░░░░░░░░░░░░   32.18 %
-JSON          1 min           ███████░░░░░░░░░░░░░░░░░░   27.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
