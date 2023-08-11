@@ -4,11 +4,11 @@ This week -
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.05 %
-YAML         3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-Markdown     2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-TypeScript   2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Makefile     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JavaScript   9 hrs 1 min     ████████████░░░░░░░░░░░░░   48.06 %
+YAML         3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+TypeScript   2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Markdown     1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
