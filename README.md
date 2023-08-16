@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This week - 
+This week:
 <!--START_SECTION:waka-->
 
 ```txt
