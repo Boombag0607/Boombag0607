@@ -4,11 +4,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     1 hr 48 mins    ████████████████▓░░░░░░░░   67.14 %
-JSON           25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-ActionScript   24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-Bash           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Assembly       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JavaScript     6 hrs 14 mins   ███████████████████████▓░   94.31 %
+Bash           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+ActionScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JSON           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Assembly       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
