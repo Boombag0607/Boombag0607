@@ -4,11 +4,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     6 hrs 14 mins   ███████████████████████▓░   94.31 %
-Bash           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-ActionScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JSON           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Assembly       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript     8 hrs 45 mins   ██████████████████████▒░░   89.49 %
+Bash           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+TypeScript     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+TSConfig       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+ActionScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
