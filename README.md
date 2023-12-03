@@ -4,11 +4,7 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          3 mins          █████████████████████░░░░   84.24 %
-Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
