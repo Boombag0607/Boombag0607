@@ -4,7 +4,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   8 mins          █████████████████████████   100.00 %
+JavaScript   27 mins         ████████████████▓░░░░░░░░   66.86 %
+CSS          10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+XML          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
