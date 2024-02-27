@@ -4,8 +4,7 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       27 mins         █████████████████████████   99.68 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
