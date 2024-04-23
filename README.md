@@ -4,8 +4,8 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   15 mins         █████████████████████░░░░   83.94 %
-CSV      2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Python   1 hr 27 mins    ██████████████████████▒░░   88.91 %
+CSV      10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
 ```
 
 <!--END_SECTION:waka-->
