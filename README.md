@@ -4,8 +4,7 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-C++      51 mins         ████████████████▓░░░░░░░░   66.84 %
-Python   25 mins         ████████▒░░░░░░░░░░░░░░░░   33.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
