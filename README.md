@@ -4,7 +4,8 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   5 mins          ████████████████████████░   95.55 %
+C++      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
